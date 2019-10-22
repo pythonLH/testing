@@ -7,8 +7,5 @@ hello,world!
 1111111111
 aaaaaaaaaa
 7777777777
-<<<<<<< HEAD
-888888888
-=======
-6666666666
->>>>>>> fenzhi1
+ggggggggg
+
